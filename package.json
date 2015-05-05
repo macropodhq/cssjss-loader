@@ -1,0 +1,9 @@
+{
+  "name": "cssjss-loader",
+  "version": "1.0.0",
+  "description": "CSS/JSS webpack loader",
+  "main": "index.js",
+  "dependencies": {
+    "cssjss": "^1.0.0"
+  }
+}
